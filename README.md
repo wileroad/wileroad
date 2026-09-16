@@ -2,11 +2,6 @@
 <body>
 <div align="center">
 <img src="https://i.ibb.co/kVFyL7sB/tumblr-acd86dd9f19b52cc34ca0fcf86771c6e-e86ba574-2048-fliter-spring-grass-channel-green-mode-m.png" width="1000">
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=COUNTRY-HUMANS.COUNTRY-HUMANS&left_color=Khaki&right_color=LightGoldenrodYellow&left_text=VISITORS;"/>
-<img src="https://imgur.com/tfK3dgY.png">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/COUNTRY-HUMANS?style=flat&label=FRIENDS;&labelColor=F0E68C&color=FAFAD2">
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
 <img src="https://i.ibb.co/LhZSncYb/Untitled121-20260916100054-fliter-spring-grass-channel-green-mode-darken.png" align="left" width="420">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=ZCOOL+KuaiLe&size=40&duration=1000&pause=&color=E9CD63&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Welcome~!" alt="Typing SVG" /></a> <br>
   <table>
@@ -23,18 +18,5 @@
   </tr>
   </table>
  <img src="https://i.ibb.co/pB97YsNT/ezgif-2ccf6a21ecfe4e8f.gif" alt="ezgif 2ccf6a21ecfe4e8f" width="250">
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
+<img src="https://i.ibb.co/pBNfpygc/tumblr-bc3fe9c0b9c951aac51debb876e9c724-61e93fb9-2048-fliter-spring-grass-channel-green-mode-m.png" width="1000">
 
-$\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
-$\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
-<img src="https://imgur.com/TzJz5YZ.png" alt="Footer" width="1000">
-[![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
-[![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
-[![credit](https://imgur.com/tfK3dgY.png)](https://oceanfront.neocities.org/graphics/mainpage)
-[![credit](https://imgur.com/tfK3dgY.png)](https://likeymelikeylikeylikey2.neocities.org/misc)
-[![credit](https://imgur.com/tfK3dgY.png)](https://ca.pinterest.com/pin/4855512094878176/)
-[![credit](https://imgur.com/tfK3dgY.png)](https://toyhou.se/32315427.my-tiny-pride-flags-v2)
-[![credit](https://imgur.com/tfK3dgY.png)](https://ca.pinterest.com/pin/59250551351586371/)
-[![credit](https://imgur.com/tfK3dgY.png)](https://rentry.org/lavender-lace)
-</div>
